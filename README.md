@@ -7,9 +7,9 @@ El juego del "ahorcado" es un juego de lápiz y papel, en el que el objetivo es 
 
 **Gana el juego** si se completa la palabra, y **se pierde** si se completa el número de intentos antes de completar la palabra.
 
-En nuestra versión del ahorcado, no dibujaremos el cuerpo, sino que esta parte se simulará estableciendo un número de intentos, por ejemplo **5 intentos**.
+En nuestra versión del ahorcado, **no dibujaremos el cuerpo, sino que esta parte se simulará estableciendo un número de intentos, por ejemplo **5 intentos**.
 
-## Objetivos de Aprendizaje
+## Objetivos de Aprendizaje**
 Esta práctica evalúa los siguientes conceptos:
 - Variables y tipos de datos primitivos (int, float, bool) y String
 - Sentencias condicionales (if, elif, else)
