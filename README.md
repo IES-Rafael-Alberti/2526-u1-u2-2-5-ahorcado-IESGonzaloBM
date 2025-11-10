@@ -1,3 +1,5 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/8lAzcOMh)
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=21506815&assignment_repo_type=AssignmentRepo)
 # Práctica: El Juego del Ahorcado
 
 ## Descripción
@@ -5,9 +7,9 @@ El juego del "ahorcado" es un juego de lápiz y papel, en el que el objetivo es 
 
 **Gana el juego** si se completa la palabra, y **se pierde** si se completa el número de intentos antes de completar la palabra.
 
-En nuestra versión del ahorcado, no dibujaremos el cuerpo, sino que esta parte se simulará estableciendo un número de intentos, por ejemplo **5 intentos**.
+En nuestra versión del ahorcado, **no dibujaremos el cuerpo, sino que esta parte se simulará estableciendo un número de intentos, por ejemplo **5 intentos**.
 
-## Objetivos de Aprendizaje
+## Objetivos de Aprendizaje**
 Esta práctica evalúa los siguientes conceptos:
 - Variables y tipos de datos primitivos (int, float, bool) y String
 - Sentencias condicionales (if, elif, else)
