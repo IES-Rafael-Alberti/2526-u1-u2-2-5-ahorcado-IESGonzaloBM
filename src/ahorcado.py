@@ -158,7 +158,6 @@ def jugar():
         letras_usadas.append(letra)
 
         palabra_oculta: str = actualizar_palabra_oculta(palabra, palabra_oculta, letra)
-        mostrar_estado(palabra_oculta, INTENTOS_MAXIMOS, letras_usadas)
 
         if letra in palabra:
             print("Letra correcta\n")
@@ -166,6 +165,8 @@ def jugar():
         else:
             print("Letra incorrecta\n")
             INTENTOS_MAXIMOS -= 1
+
+        mostrar_estado(palabra_oculta, INTENTOS_MAXIMOS, letras_usadas)
 
     print("\nJuego terminado, felicidades") if juego_terminado else print("\nJuego terminado, lo siento, te has quedado sin intentos")
     print("Palabra:", palabra)
